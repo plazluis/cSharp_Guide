@@ -10,7 +10,6 @@ namespace CSharp
     {
         public static void Main()
         {
-            ConditionalStatements.switchStatement.SwitchStatement();
         }
     }
 }
